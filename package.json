@@ -5,7 +5,7 @@
   "homepage": "http://zonesound.github.io/song-of-distance-swipe",
   "dependencies": {
     "dat.gui": "^0.7.6",
-    "firebase": "^7.2.1",
+    "firebase": "^7.9.3",
     "i": "^0.3.6",
     "npm": "^6.12.0",
     "p5": "^0.10.2",
